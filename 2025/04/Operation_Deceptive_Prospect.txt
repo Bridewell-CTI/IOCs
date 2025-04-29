@@ -1,0 +1,51 @@
+Indicators of Compromise (IOCs)	
+First Stage Domains
+drivepoint.pub
+drshare.online
+opn.to
+cloudly.live
+1dcloud.live
+drivenc.pub
+onestorelink.live
+1day.live
+1drv365.online
+my-drive365.pub
+365msdrv.live
+1dv365.live
+my1drv.live
+data-dv.live
+ondv.live
+onedrweb.live
+1dv.online
+sharedrive.pub
+drivehost.live
+dvcloud.live
+	
+
+Email Addresses
+brain.welch381761@yahoo.com
+kajzer.david962701@yahoo.com
+calvertadam317304@yahoo.com
+	
+
+Payload Hosting
+45.95.18.138
+cloud1dv.com
+gcloud-drive.com
+77.91.76.176
+1dvstorage.com 
+185.117.91.134
+cloudedrive.com 
+77.239.101.131
+datadrv1.com
+213.139.205.220
+onelivedrv.com
+193.42.39.159
+	
+
+File Hashes 
+8b683ed0d1cd0139093e21889be077d0e4e50e7adaf638b56e2077df5c6eda4b
+8183f4b75cbe318a34846b0d8bb9caf219b4b2686d14a531090b6550398cbbca
+4055e3a45d63778dfc5775ae6e512fb3991df1dadf91630a26ed5747e350f75f
+	
+
