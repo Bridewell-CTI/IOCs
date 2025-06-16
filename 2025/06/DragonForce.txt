@@ -19,10 +19,10 @@ C111476F7B394776B515249ECB6B20E6
 bfc2ef3b404294fe2fa05a8b71c7f786b58519175b7202a69fe30f45e607ff1c
 
 IP Address
-2.147.68[.]96
-185.59.221[.]75
-69.4.234[.]20
-185.73.125[.]8
+2.147.68.96
+185.59.221.75
+69.4.234.20
+185.73.125.8
 
 Commands
 reg.exe add "HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce" /v "socks5" /t REG_SZ /d "%TMP%\socks aug\socks.exe" /f
